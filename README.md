@@ -16,8 +16,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] Scale the faces every time there is gesture recognized to either scale up or down
-- [] The arrow in the tray should rotate when the tray travels between the open and closed positions.
+
 
 The following **additional** features are implemented:
 
@@ -45,7 +44,7 @@ Tray would not open or close correctly, even though it will go back to its origi
 
 ## License
 
-Copyright [2017] [Vivian Pham]
+Copyright [2017] [Vivian Pham and Vinnie Chen]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
